@@ -240,4 +240,4 @@ This repository serves as the official landing page for WinMerge. The software i
 **Get the most recent version of WinMerge today!**
 
 ---
-**Last updated:** 2026-09-28 10:27:32 UTC
+**Last updated:** 2026-09-28 18:22:35 UTC
